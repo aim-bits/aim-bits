@@ -3,9 +3,9 @@
 
 
 - 👀 I love Web Technologies, Blockchain and NFC with it contactless systems 
-- 🌱 I’m currently learning QA Engineering
-- 💞️ After learning so many languages and technologies, I'm finally ready to settle down with Quality Assurance
-- 📖 2023 Goals: to educate people on technologies, learn Penetration Testing and contribute more on open source projects
+- 🌱 I’m currently learning Backend Engineering
+- 💞️ After learning so many languages and technologies, I'm finally ready to settle down with Backend Assurance
+- 📖 2024 Goals: to educate people on technologies, learn API Development and contribute more on open source projects
 - ⚡ Fun Fact: I love teaching and 
 here is a link to my hashnode and medium; 
 - https://aimbits.hashnode.dev/
